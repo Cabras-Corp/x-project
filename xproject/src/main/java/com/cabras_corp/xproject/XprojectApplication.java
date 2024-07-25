@@ -8,6 +8,6 @@ public class XprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(XprojectApplication.class, args);
+		System.out.println("Xproject Application Started");
 	}
-
 }
